@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurnupPortalNunit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+397e98b10694096c9be6feb9e9d9e5248004abd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurnupPortalNunit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurnupPortalNunit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

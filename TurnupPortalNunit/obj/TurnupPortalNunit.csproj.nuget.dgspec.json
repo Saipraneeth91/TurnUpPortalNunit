@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saipr\\source\\repos\\ConsoleApp2\\ConsoleApp2\\TurnupPortalNunit.csproj": {}
+    "C:\\Users\\saipr\\source\\repos\\TurnupPortalNunit\\TurnupPortalNunit\\TurnupPortalNunit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saipr\\source\\repos\\ConsoleApp2\\ConsoleApp2\\TurnupPortalNunit.csproj": {
+    "C:\\Users\\saipr\\source\\repos\\TurnupPortalNunit\\TurnupPortalNunit\\TurnupPortalNunit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saipr\\source\\repos\\ConsoleApp2\\ConsoleApp2\\TurnupPortalNunit.csproj",
+        "projectUniqueName": "C:\\Users\\saipr\\source\\repos\\TurnupPortalNunit\\TurnupPortalNunit\\TurnupPortalNunit.csproj",
         "projectName": "TurnupPortalNunit",
-        "projectPath": "C:\\Users\\saipr\\source\\repos\\ConsoleApp2\\ConsoleApp2\\TurnupPortalNunit.csproj",
+        "projectPath": "C:\\Users\\saipr\\source\\repos\\TurnupPortalNunit\\TurnupPortalNunit\\TurnupPortalNunit.csproj",
         "packagesPath": "C:\\Users\\saipr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saipr\\source\\repos\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\saipr\\source\\repos\\TurnupPortalNunit\\TurnupPortalNunit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saipr\\AppData\\Roaming\\NuGet\\NuGet.Config",
